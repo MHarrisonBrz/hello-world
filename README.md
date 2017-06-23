@@ -14,5 +14,7 @@ Week 25 2017
 Week 25 (23-Jun-2017) Friday
   WebProgramming 101
    Today got up early to setup my new dev enviroment feeling positive untill it said linux..  ok i've used ubuntu before but not for long (gaming addiction..)
-   Read the options for linux Virtual machine. Dual boot, Web browser IDE.  Decided to try VM, had no problems installing Ubuntu/ruby/Sublime. But had problems installing google/ophra both kept failing at 51% tried to find solutions with no luck maybe wrong search keywords..  Decided on the dual boot with win10  Success!  Ive got the ruby/sublime/google and ophra installed, fact i'm even writing this very blog through linux.  Maybe VM is for testing...
+   Read the options for linux Virtual machine. Dual boot, Web browser IDE.  Decided to try VM, had no problems installing Ubuntu/ruby/Sublime. But had problems installing google/ophra both kept failing at 51% tried to find solutions with no luck maybe wrong search keywords..  
+   Decided on the dual boot with win10  Success!  Ive got the ruby/sublime/google and ophra installed, fact i'm even writing this very blog through linux OS.  Maybe VM is for testing...
    Just at the stage of finalizing the setup of git account etc.
+   Finished total installation of required software.
