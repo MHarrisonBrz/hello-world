@@ -6,7 +6,7 @@ I'm a 42 year old male with a new focus and motivation to finally learn to progr
 
 I'm going to create a type of blog in here so that u can record my progress
 
-Week 25 2017
+Week 25 (21/22-Jun-2017)
   I started at The Odin Project after trying many different tutorials/programms but i got the the point were i was trying to learn something what was beyond my level and resulted in me stopping/giving up, I felt dumb and thought to my self I'm not a programmer.. 
   
   As i read further in to the Odin Project i realised that ANYONE can learn anything if they refuse to give in further reading  of the verious articals on motivation, mind sets, and How to learn, has been great for me.  The future me has already told me that i will be a programmer!
@@ -18,3 +18,14 @@ Week 25 (23-Jun-2017) Friday
    Decided on the dual boot with win10  Success!  Ive got the ruby/sublime/google and ophra installed, fact i'm even writing this very blog through linux OS.  Maybe VM is for testing...
    Just at the stage of finalizing the setup of git account etc.
    Finished total installation of required software.
+
+Week 26 (26-Jun-2017) Monday
+  Web programming 101
+    Started getting to grips with git and github today seems to be a really cool way to keep track of my projects.
+    My notes on this system are: 
+    Fast + modern.
+    History / content changes
+    Collaborative changes, 
+    Easy to use..
+    I also went over some html/css and some basic javascript to refresh my mind of what each does.  3-4 hours of progression
+    
