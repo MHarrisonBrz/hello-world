@@ -29,3 +29,6 @@ Week 26 (26-Jun-2017) Monday
     Easy to use..
     I also went over some html/css and some basic javascript to refresh my mind of what each does.  3-4 hours of progression
     
+20th of July 2017
+  Well i think i've made good progress into my front end skills.  soooooo much to learn.  Ive now got a great understanding of html css and jquery have been following a lot of tutorials from Travis Media on youtube, i've completed html/css/javascript on CodeCademy/freeboot camp. Really enjoying freebootcamp.  overall i think i'm making good progress.
+  I'll try to update this more frequently so i dont forget the progress i've made.
