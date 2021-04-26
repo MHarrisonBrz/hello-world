@@ -32,3 +32,10 @@ Week 26 (26-Jun-2017) Monday
 20th of July 2017
   Well i think i've made good progress into my front end skills.  soooooo much to learn.  Ive now got a great understanding of html css and jquery have been following a lot of tutorials from Travis Media on youtube, i've completed html/css/javascript on CodeCademy/freeboot camp. Really enjoying freebootcamp.  overall i think i'm making good progress.
   I'll try to update this more frequently so i dont forget the progress i've made.
+
+26th of April 2021
+  Well I've been away for far too long.  I returned to Scotland to visit my family was really good to see them.  I started working for an IT company for a while, but i couldn't get on with the boss and i missed my wife too much so i returned quicker than i had hoped.
+
+  I'm back in Brazil and still without focus, but have decided to give web development another shot.
+  Today I refreshed what I know and currently getting back up to speed with GitHub.
+  Hopefully i can stick with it this time.  I'm getting older and still have very little to show for my self.
